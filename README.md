@@ -1,5 +1,5 @@
 # Gesture-Recognition-Based-on-Leap-Motion-and-SVM / 基于Leap Motion与SVM的手势识别
-This is C# script can be use in Unity 2018.4.19f for hand gesture recognition. SVM in this script used SVM from Accord.NET.
+This is C# script can be used in Unity 2018.4.19f for hand gesture recognition. SVM in this script is based on Accord.NET framework.
 这是一个用于Unity2018.4.19f版本的C#脚本，可以进行手势识别。SVM技术用到了Accord.NET框架。
 
 How to use Accord.NET in Unity / 如何在Unity中使用Accord.NET https://unitycoder.com/blog/2016/11/04/using-accord-net-with-unity/
